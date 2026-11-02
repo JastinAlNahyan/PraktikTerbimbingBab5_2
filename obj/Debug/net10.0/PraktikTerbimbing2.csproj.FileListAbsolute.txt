@@ -12,3 +12,4 @@ C:\Users\DPK\Jastin Al Nahyan\PraktikTerbimbing2\obj\Debug\net10.0\refint\Prakti
 C:\Users\DPK\Jastin Al Nahyan\PraktikTerbimbing2\obj\Debug\net10.0\PraktikTerbimbing2.pdb
 C:\Users\DPK\Jastin Al Nahyan\PraktikTerbimbing2\obj\Debug\net10.0\PraktikTerbimbing2.genruntimeconfig.cache
 C:\Users\DPK\Jastin Al Nahyan\PraktikTerbimbing2\obj\Debug\net10.0\ref\PraktikTerbimbing2.dll
+C:\Users\DPK\Jastin Al Nahyan\PraktikTerbimbing2\obj\Debug\net10.0\PraktikTerbimbing2.sourcelink.json
